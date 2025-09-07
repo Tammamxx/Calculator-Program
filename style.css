@@ -1,0 +1,9 @@
+*{
+    font-size: 1.6rem;
+}
+
+#container{
+    max-width: 50vh;
+    background-color: darkgrey;
+    border-radius: 1rem;
+}
